@@ -17,3 +17,4 @@ print("Furina" in x) # bool type
 # ex 5: if the word is not exist, that is the reverse of the ex#4
 x = "Hello, Furina"
 print("World" not in x)
+
