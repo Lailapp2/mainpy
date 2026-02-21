@@ -3,7 +3,7 @@ is_student = True
 is_teacher = False
 
 # ex 2: boolean values in integer
-number = 7
+number = -7
 empty_number = 0
 print(bool(number)) # True
 print(bool(empty_number)) # False
