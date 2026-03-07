@@ -1,0 +1,33 @@
+{
+  "store": "EUROPHARMA",
+  "branch": "Аптека 17-1",
+  "address": "Нур-Султан, Казахстан, Мангилик Ел 19",
+  "receipt_number": "2331180266",
+  "date": "2019-04-18",
+  "time": "11:13:58",
+  "payment_method": "Bank Card",
+  "total_amount": 18009.00,
+  "currency": "KZT",
+  "items": [
+    {"name":"Натрия хлорид 0.9% 200 мл","qty":2,"unit_price":154.00,"total":308.00},
+    {"name":"Борный спирт 3% 20 мл","qty":1,"unit_price":51.00,"total":51.00},
+    {"name":"Шприц 2 мл 3-х комп. Bioject","qty":2,"unit_price":16.00,"total":32.00},
+    {"name":"Система для инфузии Vogt Medical","qty":2,"unit_price":60.00,"total":120.00},
+    {"name":"Шприц 5 мл 3-х комп.","qty":1,"unit_price":310.00,"total":310.00},
+    {"name":"AURA Ватные диски №150","qty":1,"unit_price":461.00,"total":461.00},
+    {"name":"Чистая линия скраб мягкий 50 мл","qty":1,"unit_price":381.00,"total":381.00},
+    {"name":"Чистая линия скраб абрикос 50 мл","qty":1,"unit_price":386.00,"total":386.00},
+    {"name":"Чистая линия скраб мягкий 50 мл","qty":1,"unit_price":381.00,"total":381.00},
+    {"name":"Nivea шампунь 3в1 мужской 400 мл","qty":1,"unit_price":414.00,"total":414.00},
+    {"name":"Pro Series шампунь яркий цвет 500 мл","qty":1,"unit_price":841.00,"total":841.00},
+    {"name":"Pro Series бальзам для окрашенных волос 500 мл","qty":1,"unit_price":841.00,"total":841.00},
+    {"name":"Clear шампунь Актив спорт 2в1 400 мл","qty":1,"unit_price":1200.00,"total":1200.00},
+    {"name":"Bio World Hydro Therapy мицеллярная вода 445 мл","qty":1,"unit_price":1152.00,"total":1152.00},
+    {"name":"Bio World Hydro Therapy гель-мусс 250 мл","qty":1,"unit_price":1152.00,"total":1152.00},
+    {"name":"Натрия хлорид 0.9% 100 мл","qty":1,"unit_price":168.00,"total":168.00},
+    {"name":"Дисоль раствор 400 мл","qty":1,"unit_price":163.00,"total":163.00},
+    {"name":"Тагансорбент с ионами серебра №30","qty":1,"unit_price":1526.00,"total":1526.00},
+    {"name":"Церукал 2% 2 мл №10","qty":2,"unit_price":396.00,"total":792.00},
+    {"name":"Андазол 200 мг №40","qty":1,"unit_price":7330.00,"total":7330.00}
+  ]
+}
