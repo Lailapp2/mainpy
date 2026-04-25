@@ -6,7 +6,7 @@ pygame.init()
 screen = pygame.display.set_mode((400, 300))
 pygame.display.set_caption("Music Player")
 
-songs = ["music/track1.mp3", "music/track2.mp3"]
+songs = ["music/st/track1.mp3", "music/track2.mp3"]
 p = Player(songs)
 
 while True:
