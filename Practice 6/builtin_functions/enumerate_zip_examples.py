@@ -2,11 +2,11 @@
 names = ["Alice", "Bob", "Charlie"]
 ages = [25, 30, 35]
 
-# enumerate
+# enumerate чтоб индекс пен значение списка алу ушын
 for i, name in enumerate(names, 1):
     print(f"{i}. {name}")
 
-# zip
+# zip первый элемент первого списка и второго списка вместе
 for name, age in zip(names, ages):
     print(f"{name} is {age} years old.")
 

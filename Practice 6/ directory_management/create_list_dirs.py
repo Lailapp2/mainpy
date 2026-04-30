@@ -2,11 +2,11 @@
 import os
 
 # Create nested directories
-os.makedirs("Practice6/data/nested_dir", exist_ok=True)
+os.makedirs("Practice6/data/nested_dir", exist_ok=True) #бырнеше влож папка ашады
 print("Nested directories created.")
 
 # List all files and folders in current directory
-entries = os.listdir(".")
+entries = os.listdir(".") #папканын ишиндеги барлыгын корсетеди
 print("Files and folders in current directory:", entries)
 
 # Find files by extension
