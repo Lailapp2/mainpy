@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Aruzhan",
+        "email": "aruzhan@gmail.com",
+        "birthday": "2006-03-12",
+        "group": "Family",
+        "phones": [
+            {
+                "phone": "87001234567",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "Dias",
+        "email": "dias@mail.ru",
+        "birthday": "2005-11-25",
+        "group": "Work",
+        "phones": [
+            {
+                "phone": "87007654321",
+                "type": "work"
+            }
+        ]
+    },
+    {
+        "name": "Alina",
+        "email": "alina@gmail.com",
+        "birthday": "2007-07-09",
+        "group": "Family",
+        "phones": [
+            {
+                "phone": "87771234567",
+                "type": "home"
+            }
+        ]
+    },
+    {
+        "name": "Timur",
+        "email": "timur@mail.ru",
+        "birthday": "2006-01-30",
+        "group": "Work",
+        "phones": [
+            {
+                "phone": "87005556677",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "laila",
+        "email": "laila@gmail.com",
+        "birthday": "2008-02-05",
+        "group": "family",
+        "phones": [
+            {
+                "phone": "+777777777",
+                "type": "mobile"
+            }
+        ]
+    }
+]
